@@ -30,6 +30,9 @@ myApp.controller('SearchController', ['$scope', '$state', '$rootScope', 'JsonCou
 				}, function(response) {
 					$scope.message = "検索結果がありませんでした。";
 					$scope.list = null;
+    				
+					// ローディング終了
+					$rootScope.isLoading = false;
 				}
 			);
 		}
