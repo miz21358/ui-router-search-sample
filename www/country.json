@@ -1,0 +1,2245 @@
+{
+    "list": [
+        {
+            "country": "アイスランド", 
+            "division": "ISO 3166-2:IS", 
+            "english": "Iceland", 
+            "number": "352", 
+            "place": "北ヨーロッパ", 
+            "three": "ISL", 
+            "two": "IS"
+        }, 
+        {
+            "country": "アイルランド", 
+            "division": "ISO 3166-2:IE", 
+            "english": "Ireland", 
+            "number": "372", 
+            "place": "西ヨーロッパ", 
+            "three": "IRL", 
+            "two": "IE"
+        }, 
+        {
+            "country": "アゼルバイジャン", 
+            "division": "ISO 3166-2:AZ", 
+            "english": "Azerbaijan", 
+            "number": "031", 
+            "place": "東ヨーロッパ", 
+            "three": "AZE", 
+            "two": "AZ"
+        }, 
+        {
+            "country": "アフガニスタン", 
+            "division": "ISO 3166-2:AF", 
+            "english": "Afghanistan", 
+            "number": "004", 
+            "place": "中東", 
+            "three": "AFG", 
+            "two": "AF"
+        }, 
+        {
+            "country": "アメリカ合衆国", 
+            "division": "ISO 3166-2:US", 
+            "english": "United States", 
+            "number": "840", 
+            "place": "北アメリカ", 
+            "three": "USA", 
+            "two": "US"
+        }, 
+        {
+            "country": "アメリカ領ヴァージン諸島", 
+            "division": "ISO 3166-2:VI", 
+            "english": "Virgin Islands, U.S.", 
+            "number": "850", 
+            "place": "中央アメリカ", 
+            "three": "VIR", 
+            "two": "VI"
+        }, 
+        {
+            "country": "アメリカ領サモア", 
+            "division": "ISO 3166-2:AS", 
+            "english": "American Samoa", 
+            "number": "016", 
+            "place": "オセアニア", 
+            "three": "ASM", 
+            "two": "AS"
+        }, 
+        {
+            "country": "アラブ首長国連邦", 
+            "division": "ISO 3166-2:AE", 
+            "english": "United Arab Emirates", 
+            "number": "784", 
+            "place": "中東", 
+            "three": "ARE", 
+            "two": "AE"
+        }, 
+        {
+            "country": "アルジェリア", 
+            "division": "ISO 3166-2:DZ", 
+            "english": "Algeria", 
+            "number": "012", 
+            "place": "北アフリカ", 
+            "three": "DZA", 
+            "two": "DZ"
+        }, 
+        {
+            "country": "アルゼンチン", 
+            "division": "ISO 3166-2:AR", 
+            "english": "Argentina", 
+            "number": "032", 
+            "place": "南アメリカ", 
+            "three": "ARG", 
+            "two": "AR"
+        }, 
+        {
+            "country": "アルバ", 
+            "division": "ISO 3166-2:AW", 
+            "english": "Aruba", 
+            "number": "533", 
+            "place": "中央アメリカ", 
+            "three": "ABW", 
+            "two": "AW"
+        }, 
+        {
+            "country": "アルバニア", 
+            "division": "ISO 3166-2:AL", 
+            "english": "Albania", 
+            "number": "008", 
+            "place": "東ヨーロッパ", 
+            "three": "ALB", 
+            "two": "AL"
+        }, 
+        {
+            "country": "アルメニア", 
+            "division": "ISO 3166-2:AM", 
+            "english": "Armenia", 
+            "number": "051", 
+            "place": "東ヨーロッパ", 
+            "three": "ARM", 
+            "two": "AM"
+        }, 
+        {
+            "country": "アンギラ", 
+            "division": "ISO 3166-2:AI", 
+            "english": "Anguilla", 
+            "number": "660", 
+            "place": "中央アメリカ", 
+            "three": "AIA", 
+            "two": "AI"
+        }, 
+        {
+            "country": "アンゴラ", 
+            "division": "ISO 3166-2:AO", 
+            "english": "Angola", 
+            "number": "024", 
+            "place": "南アフリカ", 
+            "three": "AGO", 
+            "two": "AO"
+        }, 
+        {
+            "country": "アンティグア・バーブーダ", 
+            "division": "ISO 3166-2:AG", 
+            "english": "Antigua and Barbuda", 
+            "number": "028", 
+            "place": "中央アメリカ", 
+            "three": "ATG", 
+            "two": "AG"
+        }, 
+        {
+            "country": "アンドラ", 
+            "division": "ISO 3166-2:AD", 
+            "english": "Andorra", 
+            "number": "020", 
+            "place": "西ヨーロッパ", 
+            "three": "AND", 
+            "two": "AD"
+        }, 
+        {
+            "country": "イエメン", 
+            "division": "ISO 3166-2:YE", 
+            "english": "Yemen", 
+            "number": "887", 
+            "place": "中東", 
+            "three": "YEM", 
+            "two": "YE"
+        }, 
+        {
+            "country": "イギリス", 
+            "division": "ISO 3166-2:GB", 
+            "english": "United Kingdom", 
+            "number": "826", 
+            "place": "西ヨーロッパ", 
+            "three": "GBR", 
+            "two": "GB"
+        }, 
+        {
+            "country": "イギリス領インド洋地域", 
+            "division": "ISO 3166-2:IO", 
+            "english": "British Indian Ocean Territory", 
+            "number": "086", 
+            "place": "インド洋地域", 
+            "three": "IOT", 
+            "two": "IO"
+        }, 
+        {
+            "country": "イギリス領ヴァージン諸島", 
+            "division": "ISO 3166-2:VG", 
+            "english": "Virgin Islands, British", 
+            "number": "092", 
+            "place": "中央アメリカ", 
+            "three": "VGB", 
+            "two": "VG"
+        }, 
+        {
+            "country": "イスラエル", 
+            "division": "ISO 3166-2:IL", 
+            "english": "Israel", 
+            "number": "376", 
+            "place": "中東", 
+            "three": "ISR", 
+            "two": "IL"
+        }, 
+        {
+            "country": "イタリア", 
+            "division": "ISO 3166-2:IT", 
+            "english": "Italy", 
+            "number": "380", 
+            "place": "西ヨーロッパ", 
+            "three": "ITA", 
+            "two": "IT"
+        }, 
+        {
+            "country": "イラク", 
+            "division": "ISO 3166-2:IQ", 
+            "english": "Iraq", 
+            "number": "368", 
+            "place": "中東", 
+            "three": "IRQ", 
+            "two": "IQ"
+        }, 
+        {
+            "country": "イラン|イラン・イスラム共和国", 
+            "division": "ISO 3166-2:IR", 
+            "english": "Iran, Islamic Republic of", 
+            "number": "364", 
+            "place": "中東", 
+            "three": "IRN", 
+            "two": "IR"
+        }, 
+        {
+            "country": "インド", 
+            "division": "ISO 3166-2:IN", 
+            "english": "India", 
+            "number": "356", 
+            "place": "南アジア", 
+            "three": "IND", 
+            "two": "IN"
+        }, 
+        {
+            "country": "インドネシア", 
+            "division": "ISO 3166-2:ID", 
+            "english": "Indonesia", 
+            "number": "360", 
+            "place": "東南アジア", 
+            "three": "IDN", 
+            "two": "ID"
+        }, 
+        {
+            "country": "ウォリス・フツナ", 
+            "division": "ISO 3166-2:WF", 
+            "english": "Wallis and Futuna", 
+            "number": "876", 
+            "place": "オセアニア", 
+            "three": "WLF", 
+            "two": "WF"
+        }, 
+        {
+            "country": "ウガンダ", 
+            "division": "ISO 3166-2:UG", 
+            "english": "Uganda", 
+            "number": "800", 
+            "place": "中央アフリカ", 
+            "three": "UGA", 
+            "two": "UG"
+        }, 
+        {
+            "country": "ウクライナ", 
+            "division": "ISO 3166-2:UA", 
+            "english": "Ukraine", 
+            "number": "804", 
+            "place": "東ヨーロッパ", 
+            "three": "UKR", 
+            "two": "UA"
+        }, 
+        {
+            "country": "ウズベキスタン", 
+            "division": "ISO 3166-2:UZ", 
+            "english": "Uzbekistan", 
+            "number": "860", 
+            "place": "中央アジア", 
+            "three": "UZB", 
+            "two": "UZ"
+        }, 
+        {
+            "country": "ウルグアイ", 
+            "division": "ISO 3166-2:UY", 
+            "english": "Uruguay", 
+            "number": "858", 
+            "place": "南アメリカ", 
+            "three": "URY", 
+            "two": "UY"
+        }, 
+        {
+            "country": "エクアドル", 
+            "division": "ISO 3166-2:EC", 
+            "english": "Ecuador", 
+            "number": "218", 
+            "place": "南アメリカ", 
+            "three": "ECU", 
+            "two": "EC"
+        }, 
+        {
+            "country": "エジプト", 
+            "division": "ISO 3166-2:EG", 
+            "english": "Egypt", 
+            "number": "818", 
+            "place": "北アフリカ", 
+            "three": "EGY", 
+            "two": "EG"
+        }, 
+        {
+            "country": "エストニア", 
+            "division": "ISO 3166-2:EE", 
+            "english": "Estonia", 
+            "number": "233", 
+            "place": "東ヨーロッパ", 
+            "three": "EST", 
+            "two": "EE"
+        }, 
+        {
+            "country": "エチオピア", 
+            "division": "ISO 3166-2:ET", 
+            "english": "Ethiopia", 
+            "number": "231", 
+            "place": "東アフリカ", 
+            "three": "ETH", 
+            "two": "ET"
+        }, 
+        {
+            "country": "エリトリア", 
+            "division": "ISO 3166-2:ER", 
+            "english": "Eritrea", 
+            "number": "232", 
+            "place": "東アフリカ", 
+            "three": "ERI", 
+            "two": "ER"
+        }, 
+        {
+            "country": "エルサルバドル", 
+            "division": "ISO 3166-2:SV", 
+            "english": "El Salvador", 
+            "number": "222", 
+            "place": "中央アメリカ", 
+            "three": "SLV", 
+            "two": "SV"
+        }, 
+        {
+            "country": "オーストラリア", 
+            "division": "ISO 3166-2:AU", 
+            "english": "Australia", 
+            "number": "036", 
+            "place": "オセアニア", 
+            "three": "AUS", 
+            "two": "AU"
+        }, 
+        {
+            "country": "オーストリア", 
+            "division": "ISO 3166-2:AT", 
+            "english": "Austria", 
+            "number": "040", 
+            "place": "東ヨーロッパ", 
+            "three": "AUT", 
+            "two": "AT"
+        }, 
+        {
+            "country": "オーランド諸島", 
+            "division": "ISO 3166-2:AX", 
+            "english": "Aland Islands", 
+            "number": "248", 
+            "place": "北ヨーロッパ", 
+            "three": "ALA", 
+            "two": "AX"
+        }, 
+        {
+            "country": "オマーン", 
+            "division": "ISO 3166-2:OM", 
+            "english": "Oman", 
+            "number": "512", 
+            "place": "中東", 
+            "three": "OMN", 
+            "two": "OM"
+        }, 
+        {
+            "country": "オランダ", 
+            "division": "ISO 3166-2:NL", 
+            "english": "Netherlands", 
+            "number": "528", 
+            "place": "西ヨーロッパ", 
+            "three": "NLD", 
+            "two": "NL"
+        }, 
+        {
+            "country": "ガーナ", 
+            "division": "ISO 3166-2:GH", 
+            "english": "Ghana", 
+            "number": "288", 
+            "place": "西アフリカ", 
+            "three": "GHA", 
+            "two": "GH"
+        }, 
+        {
+            "country": "カーボベルデ", 
+            "division": "ISO 3166-2:CV", 
+            "english": "Cape Verde", 
+            "number": "132", 
+            "place": "西アフリカ", 
+            "three": "CPV", 
+            "two": "CV"
+        }, 
+        {
+            "country": "ガーンジー", 
+            "division": "ISO 3166-2:GG", 
+            "english": "Guernsey", 
+            "number": "831", 
+            "place": "西ヨーロッパ", 
+            "three": "GGY", 
+            "two": "GG"
+        }, 
+        {
+            "country": "ガイアナ", 
+            "division": "ISO 3166-2:GY", 
+            "english": "Guyana", 
+            "number": "328", 
+            "place": "南アメリカ", 
+            "three": "GUY", 
+            "two": "GY"
+        }, 
+        {
+            "country": "カザフスタン", 
+            "division": "ISO 3166-2:KZ", 
+            "english": "Kazakhstan", 
+            "number": "398", 
+            "place": "中央アジア", 
+            "three": "KAZ", 
+            "two": "KZ"
+        }, 
+        {
+            "country": "カタール", 
+            "division": "ISO 3166-2:QA", 
+            "english": "Qatar", 
+            "number": "634", 
+            "place": "中東", 
+            "three": "QAT", 
+            "two": "QA"
+        }, 
+        {
+            "country": "合衆国領有小離島", 
+            "division": "ISO 3166-2:UM", 
+            "english": "United States Minor Outlying Islands", 
+            "number": "581", 
+            "place": "オセアニア", 
+            "three": "UMI", 
+            "two": "UM"
+        }, 
+        {
+            "country": "カナダ", 
+            "division": "ISO 3166-2:CA", 
+            "english": "Canada", 
+            "number": "124", 
+            "place": "北アメリカ", 
+            "three": "CAN", 
+            "two": "CA"
+        }, 
+        {
+            "country": "ガボン", 
+            "division": "ISO 3166-2:GA", 
+            "english": "Gabon", 
+            "number": "266", 
+            "place": "中央アフリカ", 
+            "three": "GAB", 
+            "two": "GA"
+        }, 
+        {
+            "country": "カメルーン", 
+            "division": "ISO 3166-2:CM", 
+            "english": "Cameroon", 
+            "number": "120", 
+            "place": "中央アフリカ", 
+            "three": "CMR", 
+            "two": "CM"
+        }, 
+        {
+            "country": "ガンビア", 
+            "division": "ISO 3166-2:GM", 
+            "english": "Gambia", 
+            "number": "270", 
+            "place": "西アフリカ", 
+            "three": "GMB", 
+            "two": "GM"
+        }, 
+        {
+            "country": "カンボジア", 
+            "division": "ISO 3166-2:KH", 
+            "english": "Cambodia", 
+            "number": "116", 
+            "place": "東南アジア", 
+            "three": "KHM", 
+            "two": "KH"
+        }, 
+        {
+            "country": "北マリアナ諸島", 
+            "division": "ISO 3166-2:MP", 
+            "english": "Northern Mariana Islands", 
+            "number": "580", 
+            "place": "オセアニア", 
+            "three": "MNP", 
+            "two": "MP"
+        }, 
+        {
+            "country": "ギニア", 
+            "division": "ISO 3166-2:GN", 
+            "english": "Guinea", 
+            "number": "324", 
+            "place": "西アフリカ", 
+            "three": "GIN", 
+            "two": "GN"
+        }, 
+        {
+            "country": "ギニアビサウ", 
+            "division": "ISO 3166-2:GW", 
+            "english": "Guinea-Bissau", 
+            "number": "624", 
+            "place": "西アフリカ", 
+            "three": "GNB", 
+            "two": "GW"
+        }, 
+        {
+            "country": "キプロス", 
+            "division": "ISO 3166-2:CY", 
+            "english": "Cyprus", 
+            "number": "196", 
+            "place": "地中海地域", 
+            "three": "CYP", 
+            "two": "CY"
+        }, 
+        {
+            "country": "キューバ", 
+            "division": "ISO 3166-2:CU", 
+            "english": "Cuba", 
+            "number": "192", 
+            "place": "中央アメリカ", 
+            "three": "CUB", 
+            "two": "CU"
+        }, 
+        {
+            "country": "キュラソー島|キュラソー", 
+            "division": "ISO 3166-2:CW", 
+            "english": "Curacao", 
+            "number": "531", 
+            "place": "中央アメリカ", 
+            "three": "CUW", 
+            "two": "CW"
+        }, 
+        {
+            "country": "ギリシャ", 
+            "division": "ISO 3166-2:GR", 
+            "english": "Greece", 
+            "number": "300", 
+            "place": "西ヨーロッパ", 
+            "three": "GRC", 
+            "two": "GR"
+        }, 
+        {
+            "country": "キリバス", 
+            "division": "ISO 3166-2:KI", 
+            "english": "Kiribati", 
+            "number": "296", 
+            "place": "オセアニア", 
+            "three": "KIR", 
+            "two": "KI"
+        }, 
+        {
+            "country": "キルギス", 
+            "division": "ISO 3166-2:KG", 
+            "english": "Kyrgyzstan", 
+            "number": "417", 
+            "place": "中央アジア", 
+            "three": "KGZ", 
+            "two": "KG"
+        }, 
+        {
+            "country": "グアテマラ", 
+            "division": "ISO 3166-2:GT", 
+            "english": "Guatemala", 
+            "number": "320", 
+            "place": "中央アメリカ", 
+            "three": "GTM", 
+            "two": "GT"
+        }, 
+        {
+            "country": "グアドループ", 
+            "division": "ISO 3166-2:GP", 
+            "english": "Guadeloupe", 
+            "number": "312", 
+            "place": "中央アメリカ", 
+            "three": "GLP", 
+            "two": "GP"
+        }, 
+        {
+            "country": "グアム", 
+            "division": "ISO 3166-2:GU", 
+            "english": "Guam", 
+            "number": "316", 
+            "place": "オセアニア", 
+            "three": "GUM", 
+            "two": "GU"
+        }, 
+        {
+            "country": "クウェート", 
+            "division": "ISO 3166-2:KW", 
+            "english": "Kuwait", 
+            "number": "414", 
+            "place": "中東", 
+            "three": "KWT", 
+            "two": "KW"
+        }, 
+        {
+            "country": "クック諸島", 
+            "division": "ISO 3166-2:CK", 
+            "english": "Cook Islands", 
+            "number": "184", 
+            "place": "オセアニア", 
+            "three": "COK", 
+            "two": "CK"
+        }, 
+        {
+            "country": "グリーンランド", 
+            "division": "ISO 3166-2:GL", 
+            "english": "Greenland", 
+            "number": "304", 
+            "place": "北ヨーロッパ", 
+            "three": "GRL", 
+            "two": "GL"
+        }, 
+        {
+            "country": "クリスマス島 (オーストラリア)|クリスマス島", 
+            "division": "ISO 3166-2:CX", 
+            "english": "Christmas Island", 
+            "number": "162", 
+            "place": "オセアニア", 
+            "three": "CXR", 
+            "two": "CX"
+        }, 
+        {
+            "country": "グルジア", 
+            "division": "ISO 3166-2:GE", 
+            "english": "Georgia", 
+            "number": "268", 
+            "place": "東ヨーロッパ", 
+            "three": "GEO", 
+            "two": "GE"
+        }, 
+        {
+            "country": "グレナダ", 
+            "division": "ISO 3166-2:GD", 
+            "english": "Grenada", 
+            "number": "308", 
+            "place": "中央アメリカ", 
+            "three": "GRD", 
+            "two": "GD"
+        }, 
+        {
+            "country": "クロアチア", 
+            "division": "ISO 3166-2:HR", 
+            "english": "Croatia", 
+            "number": "191", 
+            "place": "東ヨーロッパ", 
+            "three": "HRV", 
+            "two": "HR"
+        }, 
+        {
+            "country": "ケイマン諸島", 
+            "division": "ISO 3166-2:KY", 
+            "english": "Cayman Islands", 
+            "number": "136", 
+            "place": "中央アメリカ", 
+            "three": "CYM", 
+            "two": "KY"
+        }, 
+        {
+            "country": "ケニア", 
+            "division": "ISO 3166-2:KE", 
+            "english": "Kenya", 
+            "number": "404", 
+            "place": "東アフリカ", 
+            "three": "KEN", 
+            "two": "KE"
+        }, 
+        {
+            "country": "コートジボワール", 
+            "division": "ISO 3166-2:CI", 
+            "english": "Cote d'Ivoire", 
+            "number": "384", 
+            "place": "西アフリカ", 
+            "three": "CIV", 
+            "two": "CI"
+        }, 
+        {
+            "country": "ココス諸島|ココス（キーリング）諸島", 
+            "division": "ISO 3166-2:CC", 
+            "english": "Cocos (Keeling) Islands", 
+            "number": "166", 
+            "place": "インド洋地域", 
+            "three": "CCK", 
+            "two": "CC"
+        }, 
+        {
+            "country": "コスタリカ", 
+            "division": "ISO 3166-2:CR", 
+            "english": "Costa Rica", 
+            "number": "188", 
+            "place": "中央アメリカ", 
+            "three": "CRI", 
+            "two": "CR"
+        }, 
+        {
+            "country": "コモロ", 
+            "division": "ISO 3166-2:KM", 
+            "english": "Comoros", 
+            "number": "174", 
+            "place": "インド洋地域", 
+            "three": "COM", 
+            "two": "KM"
+        }, 
+        {
+            "country": "コロンビア", 
+            "division": "ISO 3166-2:CO", 
+            "english": "Colombia", 
+            "number": "170", 
+            "place": "南アメリカ", 
+            "three": "COL", 
+            "two": "CO"
+        }, 
+        {
+            "country": "コンゴ共和国", 
+            "division": "ISO 3166-2:CG", 
+            "english": "Congo", 
+            "number": "178", 
+            "place": "中央アフリカ", 
+            "three": "COG", 
+            "two": "CG"
+        }, 
+        {
+            "country": "コンゴ民主共和国", 
+            "division": "ISO 3166-2:CD", 
+            "english": "Congo, the Democratic Republic of the", 
+            "number": "180", 
+            "place": "中央アフリカ", 
+            "three": "COD", 
+            "two": "CD"
+        }, 
+        {
+            "country": "サウジアラビア", 
+            "division": "ISO 3166-2:SA", 
+            "english": "Saudi Arabia", 
+            "number": "682", 
+            "place": "中東", 
+            "three": "SAU", 
+            "two": "SA"
+        }, 
+        {
+            "country": "サウスジョージア・サウスサンドウィッチ諸島", 
+            "division": "ISO 3166-2:GS", 
+            "english": "South Georgia and the South Sandwich Islands", 
+            "number": "239", 
+            "place": "南アメリカ", 
+            "three": "SGS", 
+            "two": "GS"
+        }, 
+        {
+            "country": "サモア", 
+            "division": "ISO 3166-2:WS", 
+            "english": "Samoa", 
+            "number": "882", 
+            "place": "オセアニア", 
+            "three": "WSM", 
+            "two": "WS"
+        }, 
+        {
+            "country": "サントメ・プリンシペ", 
+            "division": "ISO 3166-2:ST", 
+            "english": "Sao Tome and Principe", 
+            "number": "678", 
+            "place": "中央アフリカ", 
+            "three": "STP", 
+            "two": "ST"
+        }, 
+        {
+            "country": "サン・バルテルミー島|サン・バルテルミー", 
+            "division": "ISO 3166-2:BL", 
+            "english": "Saint Barthelemy", 
+            "number": "652", 
+            "place": "中央アメリカ", 
+            "three": "BLM", 
+            "two": "BL"
+        }, 
+        {
+            "country": "ザンビア", 
+            "division": "ISO 3166-2:ZM", 
+            "english": "Zambia", 
+            "number": "894", 
+            "place": "南アフリカ", 
+            "three": "ZMB", 
+            "two": "ZM"
+        }, 
+        {
+            "country": "サンピエール島・ミクロン島", 
+            "division": "ISO 3166-2:PM", 
+            "english": "Saint Pierre and Miquelon", 
+            "number": "666", 
+            "place": "北アメリカ", 
+            "three": "SPM", 
+            "two": "PM"
+        }, 
+        {
+            "country": "サンマリノ", 
+            "division": "ISO 3166-2:SM", 
+            "english": "San Marino", 
+            "number": "674", 
+            "place": "西ヨーロッパ", 
+            "three": "SMR", 
+            "two": "SM"
+        }, 
+        {
+            "country": "サン・マルタン (西インド諸島)|サン・マルタン（フランス領）", 
+            "division": "ISO 3166-2:MF", 
+            "english": "Saint Martin (French part)", 
+            "number": "663", 
+            "place": "中央アメリカ", 
+            "three": "MAF", 
+            "two": "MF"
+        }, 
+        {
+            "country": "シエラレオネ", 
+            "division": "ISO 3166-2:SL", 
+            "english": "Sierra Leone", 
+            "number": "694", 
+            "place": "西アフリカ", 
+            "three": "SLE", 
+            "two": "SL"
+        }, 
+        {
+            "country": "ジブチ", 
+            "division": "ISO 3166-2:DJ", 
+            "english": "Djibouti", 
+            "number": "262", 
+            "place": "東アフリカ", 
+            "three": "DJI", 
+            "two": "DJ"
+        }, 
+        {
+            "country": "ジブラルタル", 
+            "division": "ISO 3166-2:GI", 
+            "english": "Gibraltar", 
+            "number": "292", 
+            "place": "西ヨーロッパ", 
+            "three": "GIB", 
+            "two": "GI"
+        }, 
+        {
+            "country": "ジャージー", 
+            "division": "ISO 3166-2:JE", 
+            "english": "Jersey", 
+            "number": "832", 
+            "place": "西ヨーロッパ", 
+            "three": "JEY", 
+            "two": "JE"
+        }, 
+        {
+            "country": "ジャマイカ", 
+            "division": "ISO 3166-2:JM", 
+            "english": "Jamaica", 
+            "number": "388", 
+            "place": "中央アメリカ", 
+            "three": "JAM", 
+            "two": "JM"
+        }, 
+        {
+            "country": "シリア|シリア・アラブ共和国", 
+            "division": "ISO 3166-2:SY", 
+            "english": "Syrian Arab Republic", 
+            "number": "760", 
+            "place": "中東", 
+            "three": "SYR", 
+            "two": "SY"
+        }, 
+        {
+            "country": "シンガポール", 
+            "division": "ISO 3166-2:SG", 
+            "english": "Singapore", 
+            "number": "702", 
+            "place": "東南アジア", 
+            "three": "SGP", 
+            "two": "SG"
+        }, 
+        {
+            "country": "シント・マールテン|シント・マールテン（オランダ領）", 
+            "division": "ISO 3166-2:SX", 
+            "english": "Sint Maarten (Dutch part)", 
+            "number": "534", 
+            "place": "中央アメリカ", 
+            "three": "SXM", 
+            "two": "SX"
+        }, 
+        {
+            "country": "ジンバブエ", 
+            "division": "ISO 3166-2:ZW", 
+            "english": "Zimbabwe", 
+            "number": "716", 
+            "place": "南アフリカ", 
+            "three": "ZWE", 
+            "two": "ZW"
+        }, 
+        {
+            "country": "スイス", 
+            "division": "ISO 3166-2:CH", 
+            "english": "Switzerland", 
+            "number": "756", 
+            "place": "西ヨーロッパ", 
+            "three": "CHE", 
+            "two": "CH"
+        }, 
+        {
+            "country": "スウェーデン", 
+            "division": "ISO 3166-2:SE", 
+            "english": "Sweden", 
+            "number": "752", 
+            "place": "北ヨーロッパ", 
+            "three": "SWE", 
+            "two": "SE"
+        }, 
+        {
+            "country": "スーダン", 
+            "division": "ISO 3166-2:SD", 
+            "english": "Sudan", 
+            "number": "729", 
+            "place": "東アフリカ", 
+            "three": "SDN", 
+            "two": "SD"
+        }, 
+        {
+            "country": "スヴァールバル諸島およびヤンマイエン島", 
+            "division": "ISO 3166-2:SJ", 
+            "english": "Svalbard and Jan Mayen", 
+            "number": "744", 
+            "place": "北ヨーロッパ", 
+            "three": "SJM", 
+            "two": "SJ"
+        }, 
+        {
+            "country": "スペイン", 
+            "division": "ISO 3166-2:ES", 
+            "english": "Spain", 
+            "number": "724", 
+            "place": "西ヨーロッパ", 
+            "three": "ESP", 
+            "two": "ES"
+        }, 
+        {
+            "country": "スリナム", 
+            "division": "ISO 3166-2:SR", 
+            "english": "Suriname", 
+            "number": "740", 
+            "place": "南アメリカ", 
+            "three": "SUR", 
+            "two": "SR"
+        }, 
+        {
+            "country": "スリランカ", 
+            "division": "ISO 3166-2:LK", 
+            "english": "Sri Lanka", 
+            "number": "144", 
+            "place": "南アジア", 
+            "three": "LKA", 
+            "two": "LK"
+        }, 
+        {
+            "country": "スロバキア", 
+            "division": "ISO 3166-2:SK", 
+            "english": "Slovakia", 
+            "number": "703", 
+            "place": "東ヨーロッパ", 
+            "three": "SVK", 
+            "two": "SK"
+        }, 
+        {
+            "country": "スロベニア", 
+            "division": "ISO 3166-2:SI", 
+            "english": "Slovenia", 
+            "number": "705", 
+            "place": "東ヨーロッパ", 
+            "three": "SVN", 
+            "two": "SI"
+        }, 
+        {
+            "country": "スワジランド", 
+            "division": "ISO 3166-2:SZ", 
+            "english": "Swaziland", 
+            "number": "748", 
+            "place": "南アフリカ", 
+            "three": "SWZ", 
+            "two": "SZ"
+        }, 
+        {
+            "country": "セーシェル", 
+            "division": "ISO 3166-2:SC", 
+            "english": "Seychelles", 
+            "number": "690", 
+            "place": "インド洋地域", 
+            "three": "SYC", 
+            "two": "SC"
+        }, 
+        {
+            "country": "赤道ギニア", 
+            "division": "ISO 3166-2:GQ", 
+            "english": "Equatorial Guinea", 
+            "number": "226", 
+            "place": "中央アフリカ", 
+            "three": "GNQ", 
+            "two": "GQ"
+        }, 
+        {
+            "country": "セネガル", 
+            "division": "ISO 3166-2:SN", 
+            "english": "Senegal", 
+            "number": "686", 
+            "place": "西アフリカ", 
+            "three": "SEN", 
+            "two": "SN"
+        }, 
+        {
+            "country": "セルビア", 
+            "division": "ISO 3166-2:RS", 
+            "english": "Serbia", 
+            "number": "688", 
+            "place": "東ヨーロッパ", 
+            "three": "SRB", 
+            "two": "RS"
+        }, 
+        {
+            "country": "セントクリストファー・ネイビス", 
+            "division": "ISO 3166-2:KN", 
+            "english": "Saint Kitts and Nevis", 
+            "number": "659", 
+            "place": "中央アメリカ", 
+            "three": "KNA", 
+            "two": "KN"
+        }, 
+        {
+            "country": "セントビンセント・グレナディーン|セントビンセントおよびグレナディーン諸島", 
+            "division": "ISO 3166-2:VC", 
+            "english": "Saint Vincent and the Grenadines", 
+            "number": "670", 
+            "place": "中央アメリカ", 
+            "three": "VCT", 
+            "two": "VC"
+        }, 
+        {
+            "country": "セントヘレナ・アセンションおよびトリスタンダクーニャ", 
+            "division": "ISO 3166-2:SH", 
+            "english": "Saint Helena, Ascension and Tristan da Cunha", 
+            "number": "654", 
+            "place": "西アフリカ", 
+            "three": "SHN", 
+            "two": "SH"
+        }, 
+        {
+            "country": "セントルシア", 
+            "division": "ISO 3166-2:LC", 
+            "english": "Saint Lucia", 
+            "number": "662", 
+            "place": "中央アメリカ", 
+            "three": "LCA", 
+            "two": "LC"
+        }, 
+        {
+            "country": "ソマリア", 
+            "division": "ISO 3166-2:SO", 
+            "english": "Somalia", 
+            "number": "706", 
+            "place": "東アフリカ", 
+            "three": "SOM", 
+            "two": "SO"
+        }, 
+        {
+            "country": "ソロモン諸島", 
+            "division": "ISO 3166-2:SB", 
+            "english": "Solomon Islands", 
+            "number": "090", 
+            "place": "オセアニア", 
+            "three": "SLB", 
+            "two": "SB"
+        }, 
+        {
+            "country": "タークス・カイコス諸島", 
+            "division": "ISO 3166-2:TC", 
+            "english": "Turks and Caicos Islands", 
+            "number": "796", 
+            "place": "中央アメリカ", 
+            "three": "TCA", 
+            "two": "TC"
+        }, 
+        {
+            "country": "タイ王国|タイ", 
+            "division": "ISO 3166-2:TH", 
+            "english": "Thailand", 
+            "number": "764", 
+            "place": "東南アジア", 
+            "three": "THA", 
+            "two": "TH"
+        }, 
+        {
+            "country": "大韓民国", 
+            "division": "ISO 3166-2:KR", 
+            "english": "Korea, Republic of", 
+            "number": "410", 
+            "place": "東アジア", 
+            "three": "KOR", 
+            "two": "KR"
+        }, 
+        {
+            "country": "台湾", 
+            "division": "ISO 3166-2:TW", 
+            "english": "Taiwan, Province of China", 
+            "number": "158", 
+            "place": "東アジア", 
+            "three": "TWN", 
+            "two": "TW"
+        }, 
+        {
+            "country": "タジキスタン", 
+            "division": "ISO 3166-2:TJ", 
+            "english": "Tajikistan", 
+            "number": "762", 
+            "place": "中央アジア", 
+            "three": "TJK", 
+            "two": "TJ"
+        }, 
+        {
+            "country": "タンザニア", 
+            "division": "ISO 3166-2:TZ", 
+            "english": "Tanzania, United Republic of", 
+            "number": "834", 
+            "place": "東アフリカ", 
+            "three": "TZA", 
+            "two": "TZ"
+        }, 
+        {
+            "country": "チェコ", 
+            "division": "ISO 3166-2:CZ", 
+            "english": "Czech Republic", 
+            "number": "203", 
+            "place": "東ヨーロッパ", 
+            "three": "CZE", 
+            "two": "CZ"
+        }, 
+        {
+            "country": "チャド", 
+            "division": "ISO 3166-2:TD", 
+            "english": "Chad", 
+            "number": "148", 
+            "place": "中央アフリカ", 
+            "three": "TCD", 
+            "two": "TD"
+        }, 
+        {
+            "country": "中央アフリカ共和国", 
+            "division": "ISO 3166-2:CF", 
+            "english": "Central African Republic", 
+            "number": "140", 
+            "place": "中央アフリカ", 
+            "three": "CAF", 
+            "two": "CF"
+        }, 
+        {
+            "country": "中華人民共和国|中国", 
+            "division": "ISO 3166-2:CN", 
+            "english": "China", 
+            "number": "156", 
+            "place": "東アジア", 
+            "three": "CHN", 
+            "two": "CN"
+        }, 
+        {
+            "country": "チュニジア", 
+            "division": "ISO 3166-2:TN", 
+            "english": "Tunisia", 
+            "number": "788", 
+            "place": "北アフリカ", 
+            "three": "TUN", 
+            "two": "TN"
+        }, 
+        {
+            "country": "朝鮮民主主義人民共和国", 
+            "division": "ISO 3166-2:KP", 
+            "english": "Korea, Democratic People's Republic of", 
+            "number": "408", 
+            "place": "東アジア", 
+            "three": "PRK", 
+            "two": "KP"
+        }, 
+        {
+            "country": "チリ", 
+            "division": "ISO 3166-2:CL", 
+            "english": "Chile", 
+            "number": "152", 
+            "place": "南アメリカ", 
+            "three": "CHL", 
+            "two": "CL"
+        }, 
+        {
+            "country": "ツバル", 
+            "division": "ISO 3166-2:TV", 
+            "english": "Tuvalu", 
+            "number": "798", 
+            "place": "オセアニア", 
+            "three": "TUV", 
+            "two": "TV"
+        }, 
+        {
+            "country": "デンマーク", 
+            "division": "ISO 3166-2:DK", 
+            "english": "Denmark", 
+            "number": "208", 
+            "place": "北ヨーロッパ", 
+            "three": "DNK", 
+            "two": "DK"
+        }, 
+        {
+            "country": "ドイツ", 
+            "division": "ISO 3166-2:DE", 
+            "english": "Germany", 
+            "number": "276", 
+            "place": "西ヨーロッパ", 
+            "three": "DEU", 
+            "two": "DE"
+        }, 
+        {
+            "country": "トーゴ", 
+            "division": "ISO 3166-2:TG", 
+            "english": "Togo", 
+            "number": "768", 
+            "place": "西アフリカ", 
+            "three": "TGO", 
+            "two": "TG"
+        }, 
+        {
+            "country": "トケラウ", 
+            "division": "ISO 3166-2:TK", 
+            "english": "Tokelau", 
+            "number": "772", 
+            "place": "オセアニア", 
+            "three": "TKL", 
+            "two": "TK"
+        }, 
+        {
+            "country": "ドミニカ共和国", 
+            "division": "ISO 3166-2:DO", 
+            "english": "Dominican Republic", 
+            "number": "214", 
+            "place": "中央アメリカ", 
+            "three": "DOM", 
+            "two": "DO"
+        }, 
+        {
+            "country": "ドミニカ国", 
+            "division": "ISO 3166-2:DM", 
+            "english": "Dominica", 
+            "number": "212", 
+            "place": "中央アメリカ", 
+            "three": "DMA", 
+            "two": "DM"
+        }, 
+        {
+            "country": "トリニダード・トバゴ", 
+            "division": "ISO 3166-2:TT", 
+            "english": "Trinidad and Tobago", 
+            "number": "780", 
+            "place": "中央アメリカ", 
+            "three": "TTO", 
+            "two": "TT"
+        }, 
+        {
+            "country": "トルクメニスタン", 
+            "division": "ISO 3166-2:TM", 
+            "english": "Turkmenistan", 
+            "number": "795", 
+            "place": "中央アジア", 
+            "three": "TKM", 
+            "two": "TM"
+        }, 
+        {
+            "country": "トルコ", 
+            "division": "ISO 3166-2:TR", 
+            "english": "Turkey", 
+            "number": "792", 
+            "place": "中東", 
+            "three": "TUR", 
+            "two": "TR"
+        }, 
+        {
+            "country": "トンガ", 
+            "division": "ISO 3166-2:TO", 
+            "english": "Tonga", 
+            "number": "776", 
+            "place": "オセアニア", 
+            "three": "TON", 
+            "two": "TO"
+        }, 
+        {
+            "country": "ナイジェリア", 
+            "division": "ISO 3166-2:NG", 
+            "english": "Nigeria", 
+            "number": "566", 
+            "place": "中央アフリカ", 
+            "three": "NGA", 
+            "two": "NG"
+        }, 
+        {
+            "country": "ナウル", 
+            "division": "ISO 3166-2:NR", 
+            "english": "Nauru", 
+            "number": "520", 
+            "place": "オセアニア", 
+            "three": "NRU", 
+            "two": "NR"
+        }, 
+        {
+            "country": "ナミビア", 
+            "division": "ISO 3166-2:NA", 
+            "english": "Namibia", 
+            "number": "516", 
+            "place": "南アフリカ", 
+            "three": "NAM", 
+            "two": "NA"
+        }, 
+        {
+            "country": "南極", 
+            "division": "ISO 3166-2:AQ", 
+            "english": "Antarctica", 
+            "number": "010", 
+            "place": "南極", 
+            "three": "ATA", 
+            "two": "AQ"
+        }, 
+        {
+            "country": "ニウエ", 
+            "division": "ISO 3166-2:NU", 
+            "english": "Niue", 
+            "number": "570", 
+            "place": "オセアニア", 
+            "three": "NIU", 
+            "two": "NU"
+        }, 
+        {
+            "country": "ニカラグア", 
+            "division": "ISO 3166-2:NI", 
+            "english": "Nicaragua", 
+            "number": "558", 
+            "place": "中央アメリカ", 
+            "three": "NIC", 
+            "two": "NI"
+        }, 
+        {
+            "country": "ニジェール", 
+            "division": "ISO 3166-2:NE", 
+            "english": "Niger", 
+            "number": "562", 
+            "place": "中央アフリカ", 
+            "three": "NER", 
+            "two": "NE"
+        }, 
+        {
+            "country": "日本", 
+            "division": "ISO 3166-2:JP", 
+            "english": "Japan", 
+            "number": "392", 
+            "place": "東アジア", 
+            "three": "JPN", 
+            "two": "JP"
+        }, 
+        {
+            "country": "西サハラ", 
+            "division": "ISO 3166-2:EH", 
+            "english": "Western Sahara", 
+            "number": "732", 
+            "place": "西アフリカ", 
+            "three": "ESH", 
+            "two": "EH"
+        }, 
+        {
+            "country": "ニューカレドニア", 
+            "division": "ISO 3166-2:NC", 
+            "english": "New Caledonia", 
+            "number": "540", 
+            "place": "オセアニア", 
+            "three": "NCL", 
+            "two": "NC"
+        }, 
+        {
+            "country": "ニュージーランド", 
+            "division": "ISO 3166-2:NZ", 
+            "english": "New Zealand", 
+            "number": "554", 
+            "place": "オセアニア", 
+            "three": "NZL", 
+            "two": "NZ"
+        }, 
+        {
+            "country": "ネパール", 
+            "division": "ISO 3166-2:NP", 
+            "english": "Nepal", 
+            "number": "524", 
+            "place": "南アジア", 
+            "three": "NPL", 
+            "two": "NP"
+        }, 
+        {
+            "country": "ノーフォーク島", 
+            "division": "ISO 3166-2:NF", 
+            "english": "Norfolk Island", 
+            "number": "574", 
+            "place": "オセアニア", 
+            "three": "NFK", 
+            "two": "NF"
+        }, 
+        {
+            "country": "ノルウェー", 
+            "division": "ISO 3166-2:NO", 
+            "english": "Norway", 
+            "number": "578", 
+            "place": "北ヨーロッパ", 
+            "three": "NOR", 
+            "two": "NO"
+        }, 
+        {
+            "country": "ハード島とマクドナルド諸島", 
+            "division": "ISO 3166-2:HM", 
+            "english": "Heard Island and McDonald Islands", 
+            "number": "334", 
+            "place": "インド洋地域", 
+            "three": "HMD", 
+            "two": "HM"
+        }, 
+        {
+            "country": "バーレーン", 
+            "division": "ISO 3166-2:BH", 
+            "english": "Bahrain", 
+            "number": "048", 
+            "place": "中東", 
+            "three": "BHR", 
+            "two": "BH"
+        }, 
+        {
+            "country": "ハイチ", 
+            "division": "ISO 3166-2:HT", 
+            "english": "Haiti", 
+            "number": "332", 
+            "place": "中央アメリカ", 
+            "three": "HTI", 
+            "two": "HT"
+        }, 
+        {
+            "country": "パキスタン", 
+            "division": "ISO 3166-2:PK", 
+            "english": "Pakistan", 
+            "number": "586", 
+            "place": "南アジア", 
+            "three": "PAK", 
+            "two": "PK"
+        }, 
+        {
+            "country": "バチカン|バチカン市国", 
+            "division": "ISO 3166-2:VA", 
+            "english": "Holy See (Vatican City State)", 
+            "number": "336", 
+            "place": "西ヨーロッパ", 
+            "three": "VAT", 
+            "two": "VA"
+        }, 
+        {
+            "country": "パナマ", 
+            "division": "ISO 3166-2:PA", 
+            "english": "Panama", 
+            "number": "591", 
+            "place": "中央アメリカ", 
+            "three": "PAN", 
+            "two": "PA"
+        }, 
+        {
+            "country": "バヌアツ", 
+            "division": "ISO 3166-2:VU", 
+            "english": "Vanuatu", 
+            "number": "548", 
+            "place": "オセアニア", 
+            "three": "VUT", 
+            "two": "VU"
+        }, 
+        {
+            "country": "バハマ", 
+            "division": "ISO 3166-2:BS", 
+            "english": "Bahamas", 
+            "number": "044", 
+            "place": "中央アメリカ", 
+            "three": "BHS", 
+            "two": "BS"
+        }, 
+        {
+            "country": "パプアニューギニア", 
+            "division": "ISO 3166-2:PG", 
+            "english": "Papua New Guinea", 
+            "number": "598", 
+            "place": "オセアニア", 
+            "three": "PNG", 
+            "two": "PG"
+        }, 
+        {
+            "country": "バミューダ諸島|バミューダ", 
+            "division": "ISO 3166-2:BM", 
+            "english": "Bermuda", 
+            "number": "060", 
+            "place": "中央アメリカ", 
+            "three": "BMU", 
+            "two": "BM"
+        }, 
+        {
+            "country": "パラオ", 
+            "division": "ISO 3166-2:PW", 
+            "english": "Palau", 
+            "number": "585", 
+            "place": "オセアニア", 
+            "three": "PLW", 
+            "two": "PW"
+        }, 
+        {
+            "country": "パラグアイ", 
+            "division": "ISO 3166-2:PY", 
+            "english": "Paraguay", 
+            "number": "600", 
+            "place": "南アメリカ", 
+            "three": "PRY", 
+            "two": "PY"
+        }, 
+        {
+            "country": "バルバドス", 
+            "division": "ISO 3166-2:BB", 
+            "english": "Barbados", 
+            "number": "052", 
+            "place": "中央アメリカ", 
+            "three": "BRB", 
+            "two": "BB"
+        }, 
+        {
+            "country": "パレスチナ", 
+            "division": "ISO 3166-2:PS", 
+            "english": "Palestinian Territory, Occupied", 
+            "number": "275", 
+            "place": "中東", 
+            "three": "PSE", 
+            "two": "PS"
+        }, 
+        {
+            "country": "ハンガリー", 
+            "division": "ISO 3166-2:HU", 
+            "english": "Hungary", 
+            "number": "348", 
+            "place": "東ヨーロッパ", 
+            "three": "HUN", 
+            "two": "HU"
+        }, 
+        {
+            "country": "バングラデシュ", 
+            "division": "ISO 3166-2:BD", 
+            "english": "Bangladesh", 
+            "number": "050", 
+            "place": "南アジア", 
+            "three": "BGD", 
+            "two": "BD"
+        }, 
+        {
+            "country": "東ティモール", 
+            "division": "ISO 3166-2:TL", 
+            "english": "Timor-Leste", 
+            "number": "626", 
+            "place": "東南アジア", 
+            "three": "TLS", 
+            "two": "TL"
+        }, 
+        {
+            "country": "ピトケアン諸島|ピトケアン", 
+            "division": "ISO 3166-2:PN", 
+            "english": "Pitcairn", 
+            "number": "612", 
+            "place": "オセアニア", 
+            "three": "PCN", 
+            "two": "PN"
+        }, 
+        {
+            "country": "フィジー", 
+            "division": "ISO 3166-2:FJ", 
+            "english": "Fiji", 
+            "number": "242", 
+            "place": "オセアニア", 
+            "three": "FJI", 
+            "two": "FJ"
+        }, 
+        {
+            "country": "フィリピン", 
+            "division": "ISO 3166-2:PH", 
+            "english": "Philippines", 
+            "number": "608", 
+            "place": "東南アジア", 
+            "three": "PHL", 
+            "two": "PH"
+        }, 
+        {
+            "country": "フィンランド", 
+            "division": "ISO 3166-2:FI", 
+            "english": "Finland", 
+            "number": "246", 
+            "place": "北ヨーロッパ", 
+            "three": "FIN", 
+            "two": "FI"
+        }, 
+        {
+            "country": "ブータン", 
+            "division": "ISO 3166-2:BT", 
+            "english": "Bhutan", 
+            "number": "064", 
+            "place": "南アジア", 
+            "three": "BTN", 
+            "two": "BT"
+        }, 
+        {
+            "country": "ブーベ島", 
+            "division": "ISO 3166-2:BV", 
+            "english": "Bouvet Island", 
+            "number": "074", 
+            "place": "南極", 
+            "three": "BVT", 
+            "two": "BV"
+        }, 
+        {
+            "country": "プエルトリコ", 
+            "division": "ISO 3166-2:PR", 
+            "english": "Puerto Rico", 
+            "number": "630", 
+            "place": "中央アメリカ", 
+            "three": "PRI", 
+            "two": "PR"
+        }, 
+        {
+            "country": "フェロー諸島", 
+            "division": "ISO 3166-2:FO", 
+            "english": "Faroe Islands", 
+            "number": "234", 
+            "place": "北ヨーロッパ", 
+            "three": "FRO", 
+            "two": "FO"
+        }, 
+        {
+            "country": "フォークランド諸島|フォークランド（マルビナス）諸島", 
+            "division": "ISO 3166-2:FK", 
+            "english": "Falkland Islands (Malvinas)", 
+            "number": "238", 
+            "place": "南アメリカ", 
+            "three": "FLK", 
+            "two": "FK"
+        }, 
+        {
+            "country": "ブラジル", 
+            "division": "ISO 3166-2:BR", 
+            "english": "Brazil", 
+            "number": "076", 
+            "place": "南アメリカ", 
+            "three": "BRA", 
+            "two": "BR"
+        }, 
+        {
+            "country": "フランス", 
+            "division": "ISO 3166-2:FR", 
+            "english": "France", 
+            "number": "250", 
+            "place": "西ヨーロッパ", 
+            "three": "FRA", 
+            "two": "FR"
+        }, 
+        {
+            "country": "フランス領ギアナ", 
+            "division": "ISO 3166-2:GF", 
+            "english": "French Guiana", 
+            "number": "254", 
+            "place": "南アメリカ", 
+            "three": "GUF", 
+            "two": "GF"
+        }, 
+        {
+            "country": "フランス領ポリネシア", 
+            "division": "ISO 3166-2:PF", 
+            "english": "French Polynesia", 
+            "number": "258", 
+            "place": "オセアニア", 
+            "three": "PYF", 
+            "two": "PF"
+        }, 
+        {
+            "country": "フランス領南方・南極地域", 
+            "division": "ISO 3166-2:TF", 
+            "english": "French Southern Territories", 
+            "number": "260", 
+            "place": "インド洋地域", 
+            "three": "ATF", 
+            "two": "TF"
+        }, 
+        {
+            "country": "ブルガリア", 
+            "division": "ISO 3166-2:BG", 
+            "english": "Bulgaria", 
+            "number": "100", 
+            "place": "東ヨーロッパ", 
+            "three": "BGR", 
+            "two": "BG"
+        }, 
+        {
+            "country": "ブルキナファソ", 
+            "division": "ISO 3166-2:BF", 
+            "english": "Burkina Faso", 
+            "number": "854", 
+            "place": "西アフリカ", 
+            "three": "BFA", 
+            "two": "BF"
+        }, 
+        {
+            "country": "ブルネイ|ブルネイ・ダルサラーム", 
+            "division": "ISO 3166-2:BN", 
+            "english": "Brunei Darussalam", 
+            "number": "096", 
+            "place": "東南アジア", 
+            "three": "BRN", 
+            "two": "BN"
+        }, 
+        {
+            "country": "ブルンジ", 
+            "division": "ISO 3166-2:BI", 
+            "english": "Burundi", 
+            "number": "108", 
+            "place": "中央アフリカ", 
+            "three": "BDI", 
+            "two": "BI"
+        }, 
+        {
+            "country": "ベトナム", 
+            "division": "ISO 3166-2:VN", 
+            "english": "Viet Nam", 
+            "number": "704", 
+            "place": "東南アジア", 
+            "three": "VNM", 
+            "two": "VN"
+        }, 
+        {
+            "country": "ベナン", 
+            "division": "ISO 3166-2:BJ", 
+            "english": "Benin", 
+            "number": "204", 
+            "place": "西アフリカ", 
+            "three": "BEN", 
+            "two": "BJ"
+        }, 
+        {
+            "country": "ベネズエラ|ベネズエラ・ボリバル共和国", 
+            "division": "ISO 3166-2:VE", 
+            "english": "Venezuela, Bolivarian Republic of", 
+            "number": "862", 
+            "place": "南アメリカ", 
+            "three": "VEN", 
+            "two": "VE"
+        }, 
+        {
+            "country": "ベラルーシ", 
+            "division": "ISO 3166-2:BY", 
+            "english": "Belarus", 
+            "number": "112", 
+            "place": "東ヨーロッパ", 
+            "three": "BLR", 
+            "two": "BY"
+        }, 
+        {
+            "country": "ベリーズ", 
+            "division": "ISO 3166-2:BZ", 
+            "english": "Belize", 
+            "number": "084", 
+            "place": "中央アメリカ", 
+            "three": "BLZ", 
+            "two": "BZ"
+        }, 
+        {
+            "country": "ペルー", 
+            "division": "ISO 3166-2:PE", 
+            "english": "Peru", 
+            "number": "604", 
+            "place": "南アメリカ", 
+            "three": "PER", 
+            "two": "PE"
+        }, 
+        {
+            "country": "ベルギー", 
+            "division": "ISO 3166-2:BE", 
+            "english": "Belgium", 
+            "number": "056", 
+            "place": "西ヨーロッパ", 
+            "three": "BEL", 
+            "two": "BE"
+        }, 
+        {
+            "country": "ポーランド", 
+            "division": "ISO 3166-2:PL", 
+            "english": "Poland", 
+            "number": "616", 
+            "place": "東ヨーロッパ", 
+            "three": "POL", 
+            "two": "PL"
+        }, 
+        {
+            "country": "ボスニア・ヘルツェゴビナ", 
+            "division": "ISO 3166-2:BA", 
+            "english": "Bosnia and Herzegovina", 
+            "number": "070", 
+            "place": "東ヨーロッパ", 
+            "three": "BIH", 
+            "two": "BA"
+        }, 
+        {
+            "country": "ボツワナ", 
+            "division": "ISO 3166-2:BW", 
+            "english": "Botswana", 
+            "number": "072", 
+            "place": "南アフリカ", 
+            "three": "BWA", 
+            "two": "BW"
+        }, 
+        {
+            "country": "BES諸島|ボネール、シント・ユースタティウスおよびサバ", 
+            "division": "ISO 3166-2:BQ", 
+            "english": "Bonaire, Saint Eustatius and Saba", 
+            "number": "535", 
+            "place": "中央アメリカ", 
+            "three": "BES", 
+            "two": "BQ"
+        }, 
+        {
+            "country": "ボリビア|ボリビア多民族国", 
+            "division": "ISO 3166-2:BO", 
+            "english": "Bolivia, Plurinational State of", 
+            "number": "068", 
+            "place": "南アメリカ", 
+            "three": "BOL", 
+            "two": "BO"
+        }, 
+        {
+            "country": "ポルトガル", 
+            "division": "ISO 3166-2:PT", 
+            "english": "Portugal", 
+            "number": "620", 
+            "place": "西ヨーロッパ", 
+            "three": "PRT", 
+            "two": "PT"
+        }, 
+        {
+            "country": "香港", 
+            "division": "ISO 3166-2:HK", 
+            "english": "Hong Kong", 
+            "number": "344", 
+            "place": "東アジア", 
+            "three": "HKG", 
+            "two": "HK"
+        }, 
+        {
+            "country": "ホンジュラス", 
+            "division": "ISO 3166-2:HN", 
+            "english": "Honduras", 
+            "number": "340", 
+            "place": "中央アメリカ", 
+            "three": "HND", 
+            "two": "HN"
+        }, 
+        {
+            "country": "マーシャル諸島", 
+            "division": "ISO 3166-2:MH", 
+            "english": "Marshall Islands", 
+            "number": "584", 
+            "place": "オセアニア", 
+            "three": "MHL", 
+            "two": "MH"
+        }, 
+        {
+            "country": "マカオ", 
+            "division": "ISO 3166-2:MO", 
+            "english": "Macao", 
+            "number": "446", 
+            "place": "東アジア", 
+            "three": "MAC", 
+            "two": "MO"
+        }, 
+        {
+            "country": "マケドニア共和国|マケドニア旧ユーゴスラビア共和国", 
+            "division": "ISO 3166-2:MK", 
+            "english": "Macedonia, the former Yugoslav Republic of", 
+            "number": "807", 
+            "place": "東ヨーロッパ", 
+            "three": "MKD", 
+            "two": "MK"
+        }, 
+        {
+            "country": "マダガスカル", 
+            "division": "ISO 3166-2:MG", 
+            "english": "Madagascar", 
+            "number": "450", 
+            "place": "インド洋地域", 
+            "three": "MDG", 
+            "two": "MG"
+        }, 
+        {
+            "country": "マヨット", 
+            "division": "ISO 3166-2:YT", 
+            "english": "Mayotte", 
+            "number": "175", 
+            "place": "インド洋地域", 
+            "three": "MYT", 
+            "two": "YT"
+        }, 
+        {
+            "country": "マラウイ", 
+            "division": "ISO 3166-2:MW", 
+            "english": "Malawi", 
+            "number": "454", 
+            "place": "南アフリカ", 
+            "three": "MWI", 
+            "two": "MW"
+        }, 
+        {
+            "country": "マリ共和国|マリ", 
+            "division": "ISO 3166-2:ML", 
+            "english": "Mali", 
+            "number": "466", 
+            "place": "西アフリカ", 
+            "three": "MLI", 
+            "two": "ML"
+        }, 
+        {
+            "country": "マルタ", 
+            "division": "ISO 3166-2:MT", 
+            "english": "Malta", 
+            "number": "470", 
+            "place": "地中海地域", 
+            "three": "MLT", 
+            "two": "MT"
+        }, 
+        {
+            "country": "マルティニーク", 
+            "division": "ISO 3166-2:MQ", 
+            "english": "Martinique", 
+            "number": "474", 
+            "place": "中央アメリカ", 
+            "three": "MTQ", 
+            "two": "MQ"
+        }, 
+        {
+            "country": "マレーシア", 
+            "division": "ISO 3166-2:MY", 
+            "english": "Malaysia", 
+            "number": "458", 
+            "place": "東南アジア", 
+            "three": "MYS", 
+            "two": "MY"
+        }, 
+        {
+            "country": "マン島", 
+            "division": "ISO 3166-2:IM", 
+            "english": "Isle of Man", 
+            "number": "833", 
+            "place": "西ヨーロッパ", 
+            "three": "IMN", 
+            "two": "IM"
+        }, 
+        {
+            "country": "ミクロネシア連邦", 
+            "division": "ISO 3166-2:FM", 
+            "english": "Micronesia, Federated States of", 
+            "number": "583", 
+            "place": "オセアニア", 
+            "three": "FSM", 
+            "two": "FM"
+        }, 
+        {
+            "country": "南アフリカ共和国|南アフリカ", 
+            "division": "ISO 3166-2:ZA", 
+            "english": "South Africa", 
+            "number": "710", 
+            "place": "南アフリカ", 
+            "three": "ZAF", 
+            "two": "ZA"
+        }, 
+        {
+            "country": "南スーダン", 
+            "division": "ISO 3166-2:SS", 
+            "english": "South Sudan", 
+            "number": "728", 
+            "place": "東アフリカ", 
+            "three": "SSD", 
+            "two": "SS"
+        }, 
+        {
+            "country": "ミャンマー", 
+            "division": "ISO 3166-2:MM", 
+            "english": "Myanmar", 
+            "number": "104", 
+            "place": "東南アジア", 
+            "three": "MMR", 
+            "two": "MM"
+        }, 
+        {
+            "country": "メキシコ", 
+            "division": "ISO 3166-2:MX", 
+            "english": "Mexico", 
+            "number": "484", 
+            "place": "中央アメリカ", 
+            "three": "MEX", 
+            "two": "MX"
+        }, 
+        {
+            "country": "モーリシャス", 
+            "division": "ISO 3166-2:MU", 
+            "english": "Mauritius", 
+            "number": "480", 
+            "place": "南アフリカ", 
+            "three": "MUS", 
+            "two": "MU"
+        }, 
+        {
+            "country": "モーリタニア", 
+            "division": "ISO 3166-2:MR", 
+            "english": "Mauritania", 
+            "number": "478", 
+            "place": "西アフリカ", 
+            "three": "MRT", 
+            "two": "MR"
+        }, 
+        {
+            "country": "モザンビーク", 
+            "division": "ISO 3166-2:MZ", 
+            "english": "Mozambique", 
+            "number": "508", 
+            "place": "南アフリカ", 
+            "three": "MOZ", 
+            "two": "MZ"
+        }, 
+        {
+            "country": "モナコ", 
+            "division": "ISO 3166-2:MC", 
+            "english": "Monaco", 
+            "number": "492", 
+            "place": "西ヨーロッパ", 
+            "three": "MCO", 
+            "two": "MC"
+        }, 
+        {
+            "country": "モルディブ", 
+            "division": "ISO 3166-2:MV", 
+            "english": "Maldives", 
+            "number": "462", 
+            "place": "インド洋地域", 
+            "three": "MDV", 
+            "two": "MV"
+        }, 
+        {
+            "country": "モルドバ|モルドバ共和国", 
+            "division": "ISO 3166-2:MD", 
+            "english": "Moldova, Republic of", 
+            "number": "498", 
+            "place": "東ヨーロッパ", 
+            "three": "MDA", 
+            "two": "MD"
+        }, 
+        {
+            "country": "モロッコ", 
+            "division": "ISO 3166-2:MA", 
+            "english": "Morocco", 
+            "number": "504", 
+            "place": "北アフリカ", 
+            "three": "MAR", 
+            "two": "MA"
+        }, 
+        {
+            "country": "モンゴル国|モンゴル", 
+            "division": "ISO 3166-2:MN", 
+            "english": "Mongolia", 
+            "number": "496", 
+            "place": "東アジア", 
+            "three": "MNG", 
+            "two": "MN"
+        }, 
+        {
+            "country": "モンテネグロ", 
+            "division": "ISO 3166-2:ME", 
+            "english": "Montenegro", 
+            "number": "499", 
+            "place": "東ヨーロッパ", 
+            "three": "MNE", 
+            "two": "ME"
+        }, 
+        {
+            "country": "モントセラト", 
+            "division": "ISO 3166-2:MS", 
+            "english": "Montserrat", 
+            "number": "500", 
+            "place": "中央アメリカ", 
+            "three": "MSR", 
+            "two": "MS"
+        }, 
+        {
+            "country": "ヨルダン", 
+            "division": "ISO 3166-2:JO", 
+            "english": "Jordan", 
+            "number": "400", 
+            "place": "中東", 
+            "three": "JOR", 
+            "two": "JO"
+        }, 
+        {
+            "country": "ラオス|ラオス人民民主共和国", 
+            "division": "ISO 3166-2:LA", 
+            "english": "Lao People's Democratic Republic", 
+            "number": "418", 
+            "place": "東南アジア", 
+            "three": "LAO", 
+            "two": "LA"
+        }, 
+        {
+            "country": "ラトビア", 
+            "division": "ISO 3166-2:LV", 
+            "english": "Latvia", 
+            "number": "428", 
+            "place": "東ヨーロッパ", 
+            "three": "LVA", 
+            "two": "LV"
+        }, 
+        {
+            "country": "リトアニア", 
+            "division": "ISO 3166-2:LT", 
+            "english": "Lithuania", 
+            "number": "440", 
+            "place": "東ヨーロッパ", 
+            "three": "LTU", 
+            "two": "LT"
+        }, 
+        {
+            "country": "リビア", 
+            "division": "ISO 3166-2:LY", 
+            "english": "Libya", 
+            "number": "434", 
+            "place": "北アフリカ", 
+            "three": "LBY", 
+            "two": "LY"
+        }, 
+        {
+            "country": "リヒテンシュタイン", 
+            "division": "ISO 3166-2:LI", 
+            "english": "Liechtenstein", 
+            "number": "438", 
+            "place": "西ヨーロッパ", 
+            "three": "LIE", 
+            "two": "LI"
+        }, 
+        {
+            "country": "リベリア", 
+            "division": "ISO 3166-2:LR", 
+            "english": "Liberia", 
+            "number": "430", 
+            "place": "西アフリカ", 
+            "three": "LBR", 
+            "two": "LR"
+        }, 
+        {
+            "country": "ルーマニア", 
+            "division": "ISO 3166-2:RO", 
+            "english": "Romania", 
+            "number": "642", 
+            "place": "東ヨーロッパ", 
+            "three": "ROU", 
+            "two": "RO"
+        }, 
+        {
+            "country": "ルクセンブルク", 
+            "division": "ISO 3166-2:LU", 
+            "english": "Luxembourg", 
+            "number": "442", 
+            "place": "西ヨーロッパ", 
+            "three": "LUX", 
+            "two": "LU"
+        }, 
+        {
+            "country": "ルワンダ", 
+            "division": "ISO 3166-2:RW", 
+            "english": "Rwanda", 
+            "number": "646", 
+            "place": "中央アフリカ", 
+            "three": "RWA", 
+            "two": "RW"
+        }, 
+        {
+            "country": "レソト", 
+            "division": "ISO 3166-2:LS", 
+            "english": "Lesotho", 
+            "number": "426", 
+            "place": "南アフリカ", 
+            "three": "LSO", 
+            "two": "LS"
+        }, 
+        {
+            "country": "レバノン", 
+            "division": "ISO 3166-2:LB", 
+            "english": "Lebanon", 
+            "number": "422", 
+            "place": "中東", 
+            "three": "LBN", 
+            "two": "LB"
+        }, 
+        {
+            "country": "レユニオン", 
+            "division": "ISO 3166-2:RE", 
+            "english": "Reunion", 
+            "number": "638", 
+            "place": "インド洋地域", 
+            "three": "REU", 
+            "two": "RE"
+        }, 
+        {
+            "country": "ロシア|ロシア連邦", 
+            "division": "ISO 3166-2:RU", 
+            "english": "Russian Federation", 
+            "number": "643", 
+            "place": "ロシア", 
+            "three": "RUS", 
+            "two": "RU"
+        }
+    ]
+}

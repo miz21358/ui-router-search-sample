@@ -1,0 +1,72 @@
+<!DOCTYPE HTML>
+<html>
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no">
+  <meta http-equiv="Content-Security-Policy" content="default-src * data: gap: https://ssl.gstatic.com; style-src * 'unsafe-inline'; script-src * 'unsafe-inline' 'unsafe-eval'">
+  <script src="components/loader.js"></script>
+  <script src="script.js"></script>
+
+  <link rel="stylesheet" href="components/loader.css">
+  <link rel="stylesheet" href="css/style.css">
+</head>
+<body ng-app="MyApp">
+
+	<ons-page>
+        <!-- ツールバー -->
+		<ons-toolbar>
+			<div class="center">JSON検索</div>
+		</ons-toolbar>
+		
+        <!-- 画面のメイン部分 -->
+		<div>
+			<ons-button ui-sref="search">JSON検索</ons-button>
+		</div>
+		
+        <!-- 遷移読込部分 -->
+		<div style="padding: 20px 10px;" ui-view></div>
+		
+        <!-- ローディング読込用ディレクティブ -->
+		<my-loader></my-loader>
+
+	</ons-page>
+	
+	<!-- リスト画面 -->
+	<ons-template id="search.html">
+		<div ng-controller="SearchController">
+			<!-- 入力欄 -->
+	        <ons-input ng-model="searchText" modifier="underbar" placeholder="国名等" float></ons-input>	
+	        <!-- 検索ボタン -->
+			<ons-button ng-click="searchCountry();">検索</ons-button>
+			<div>{{message}}</div>
+			<!--検索結果 -->
+			<dl ng-repeat="(i, item) in list">
+				<!-- 国名をタップしたら、詳細表示有無を反転させる -->
+				<dt ng-click="shown[i] = !shown[i];">
+					<!-- 詳細未表示時は右向きアイコン -->
+		    		<ons-icon icon="fa-chevron-circle-right" ng-show="!shown[i]"></ons-icon>
+					<!-- 詳細表示時は右向きアイコン -->
+		    		<ons-icon icon="fa-chevron-circle-down" ng-show="shown[i]"></ons-icon>					    		
+					{{item.country}}					
+				</dt>
+				<!-- 詳細情報は、詳細表示ON時のみCSSを設定し、アニメーション表示する -->
+				<dd ng-show="shown[i]">
+					<ul>
+						<li>英語名：{{item.english}}</li>
+						<li>数: {{item.number}}</li>
+						<li>三字: {{item.three}}</li>
+						<li>二字: {{item.two}}</li>
+						<li>場所: {{item.place}}</li>
+						<li>各行政区分: {{item.division}}</li>
+					</ul>
+				</dd>
+			</dl>
+		</div>
+	</ons-template>
+	
+    <!-- ローディング画面 -->
+	<ons-template id="loader.html">
+		<div ng-if="$root.isLoading" class="loader-parent"><div class="loader">Loading...</div></div>
+	</ons-template>
+</body>	
+</html>
